@@ -10,8 +10,8 @@
 Проект на C++ еще не готов, т.к. не нашел на него времени. Как доделаю - сообщу   
 
 Поэтому вот сделанное от руки:      
-![img](https://github.com/Ivanplat/PracticeWork03e/blob/master/fig01.PNG "Fig.1")  
-![img](https://github.com/Ivanplat/PracticeWork03e/blob/master/fig02.PNG "Fig.2")  
+![img](https://github.com/Ivanplat/PracticeWork03e/blob/master/fig1.jpg "Fig.1")  
+![img](https://github.com/Ivanplat/PracticeWork03e/blob/master/fig2.jpg "Fig.2")  
 
 
  
