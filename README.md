@@ -1,4 +1,4 @@
-# Практическая работа #3  
+# Практическая работа #3    
 ** Ivan Platonov 02121-DB ISU IMIT **  
 ** E-Mail: EventGraphDev@gmail.com **  
 ** GitHub: https://github.com/Ivanplat **  
